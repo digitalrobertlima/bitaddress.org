@@ -1,8 +1,12 @@
 # bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
+pt_BR: Gerador de carteira BitCoin JavaScript do lado do Cliente
+
 Now Bitcoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
+
+pt_BR: Agora endereços BitCoin e sua chave privada podem ser convenientemente gerados em um browser web.
 
 The bitaddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
